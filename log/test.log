@@ -37,3 +37,8 @@ ion (0.4ms)
 )
 17:13:06 +0000
 
+  [1m[35m (0.2ms)[0m  [1m[31mrollback transaction[0m
+)
+ion (0.5ms)
+00
+
